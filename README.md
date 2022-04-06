@@ -1,2 +1,3 @@
 # git_test
-Odin Project walkthrough
+Odin Project walkthrough with Github repositories.
+Hello Odin!
